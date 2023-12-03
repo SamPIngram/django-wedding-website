@@ -12,7 +12,7 @@ DEFAULT_WEDDING_REPLY_EMAIL = 'happilyeverafter@example.com'
 WEDDING_CC_LIST = []
 
 # your names
-BRIDE_AND_GROOM = 'Your names'
+BRIDE_AND_GROOM = 'Victoria and Sam'
 # the location of your wedding
 WEDDING_LOCATION = 'Somewhere special'
 # the date of your wedding
